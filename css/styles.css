@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Contrail+One&display=swap');
+
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -5,6 +7,7 @@ body {
     box-sizing: border-box;
     background-color: #f0f0f0;
     color: #333;
+    font-family: "Contrail One", serif;
 }
 
 header {
